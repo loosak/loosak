@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AMPA presemtation
+- 🔭 I’m currently working on Weather App
 - 🌱 I’m currently learning Swift
 
 <!-- 
