@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 <!-- 
 - 🔭 I’m currently working on Weather App
 - 🌱 I’m currently learning Swift
